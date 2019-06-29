@@ -10,6 +10,7 @@
 		415094AB1B1E805100B93A91 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415094AA1B1E805100B93A91 /* AppDelegate.swift */; };
 		415094AD1B1E805100B93A91 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415094AC1B1E805100B93A91 /* ViewController.swift */; };
 		415094B01B1E805100B93A91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 415094AE1B1E805100B93A91 /* Main.storyboard */; };
+		415094B21B1E805100B93A91 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 415094B11B1E805100B93A91 /* Images.xcassets */; };
 		415094B51B1E805100B93A91 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 415094B31B1E805100B93A91 /* LaunchScreen.xib */; };
 		415094C11B1E805100B93A91 /* TaskItSelfTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 415094C01B1E805100B93A91 /* TaskItSelfTests.swift */; };
 /* End PBXBuildFile section */
